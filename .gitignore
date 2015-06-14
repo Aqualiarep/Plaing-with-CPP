@@ -1,0 +1,12 @@
+*.suo
+TRR/Debug/TRR.exe
+*.pdb
+TRR/TRR/Debug/TRR.log
+*.tlog
+TRR/TRR/Debug/vc140.idb
+*.log
+TRR/TRR/x64/Debug/vc140.idb
+*.ilk
+TRR/TRR/Debug/TRR.obj
+TRR/TRR/x64/Debug/TRR.obj
+*.exe
